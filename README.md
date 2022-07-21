@@ -88,12 +88,14 @@ Material Icons (recommended)
 ```
 Default Quasar language pack - one from https://github.com/quasarframework/quasar/tree/dev/ui/lang
 ```
+US-en
+```
 Use RTL support?
 ```
 N
 ```
 Select features
 ```
-Matieral Icons (recommended)
+Material Icons (recommended)
 ```
 

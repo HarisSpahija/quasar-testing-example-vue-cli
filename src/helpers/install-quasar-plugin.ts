@@ -1,6 +1,6 @@
 import { afterAll } from "@jest/globals";
 import { config } from "@vue/test-utils";
-import { cloneDeep } from "lodash.clonedeep";
+import cloneDeep from "lodash.clonedeep";
 import { Quasar, QuasarPluginOptions } from "quasar";
 
 export function installQuasarPlugin(options?: Partial<QuasarPluginOptions>) {

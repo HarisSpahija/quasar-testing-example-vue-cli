@@ -30,7 +30,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Vue CLI config
 
-```
 Features needed for the project
 ```
 Babel, Typescript, Router, CSS Pre-processors, Linter, Unit

@@ -1,6 +1,6 @@
-import { installQuasarPlugin } from "@/helpers/install-quasar-plugin";
 import { DOMWrapper, mount } from "@vue/test-utils";
 import Button from "./Button.vue";
+import { installQuasarPlugin } from "@quasar/quasar-app-extension-testing-unit-jest";
 
 installQuasarPlugin();
 

@@ -7,5 +7,8 @@ module.exports = {
     // See https://jestjs.io/docs/en/configuration.html#transformignorepatterns-array-string
     [`^(${esModules}).+\\.js$`]: "babel-jest",
   },
+  moduleNameMapper: {
+    "^quasar$": "quasar/dist/quasar.esm.prod.js",
+  },
   transformIgnorePatterns: [`node_modules/(?!(${esModules}))`],
 };

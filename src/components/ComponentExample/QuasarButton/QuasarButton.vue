@@ -1,5 +1,5 @@
 <template>
-  <button @click="onOKClick">Button</button>
+  <q-button @click="onOKClick">Button</q-button>
 </template>
 
 <script>
